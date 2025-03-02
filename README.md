@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**MuhammedEDU/MuhammedEDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a **full-stack developer** with a passion for AI, psychology, and crafting innovative solutions. With a strong background in **web development**, I enjoy building **AI-powered applications**, educational platforms, and automation tools.
 
-Here are some ideas to get you started:
+### 💡 What I Do
+- 🖥️ **Full-Stack Development** | JavaScript, TypeScript, Python, Node.js, React, Next.js, Django, Express
+- 🤖 **AI & Machine Learning** | NLP, Fine-Tuned Models, AI Chatbots, Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Projects
+- 💪 **AI Gym Trainer App** (With Arabic Language Support)
+
+### 📈 Learning & Interests
+- 🔥 Studying **STEM Subjects at STEM High School for Boys - 6th of October**
+- 📖 Learning **German (A1 Level)** 
+- 📊 Optimizing **study & productivity with the '12 Week Year' system**
+
+### 🌍 Let's Connect
+- 🏗️ **GitHub Projects:** [github.com/MuhammedEDU](https://github.com/MuhammedEDU)
+- 📝 **Blog & Articles:** Pretty SOON!
+- 📧 **Email:** Muhammed4E@proton.me
+
+> "Code with purpose, learn with passion, and create with innovation."
+
