@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mohamed Nasser 👋
 
 ### 🚀 About Me
 I'm a **full-stack developer** with a passion for AI, psychology, and crafting innovative solutions. With a strong background in **web development**, I enjoy building **AI-powered applications**, educational platforms, and automation tools.
